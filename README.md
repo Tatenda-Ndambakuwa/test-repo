@@ -1,4 +1,4 @@
 # test-repo
 ## Something from my computer
-..* point one
+  * point one
   * point two
